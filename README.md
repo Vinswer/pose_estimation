@@ -20,10 +20,10 @@ The pipeline processes videos of chickens walking in a controlled corridor envir
 
 <div align="center"><img width="1010" height="240" alt="image" src="https://github.com/user-attachments/assets/b425044b-1da0-4276-9b59-c2b121a52341" />
   </div>
-**Figure 1:** The camera is fixed in the back-view position, recording a video of chickens walking through the corridor
+Figure 1: The camera is fixed in the back-view position, recording a video of chickens walking through the corridor
 </div>
 <img width="1030" height="584" alt="image" src="https://github.com/user-attachments/assets/d0cdd8fe-d76a-4310-a1f4-81762c459220" />
-**Figure 2:** System architecture pipeline showing the complete workflow from image input to final identification
+Figure 2: System architecture pipeline showing the complete workflow from image input to final identification
 
 ## Key Features
 - Automated Gait Analysis:
